@@ -1,0 +1,5 @@
+﻿  DLL-Injector.cpp
+D:\AttackOnline 2.0 UE2\DLL-Injector-Keyauth-main\DLL-Injector\DLL-Injector.cpp(157,29): warning C4244: '+=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+D:\AttackOnline 2.0 UE2\DLL-Injector-Keyauth-main\DLL-Injector\DLL-Injector.cpp(292,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\AttackOnline 2.0 UE2\DLL-Injector-Keyauth-main\DLL-Injector\DLL-Injector.cpp(229,1): warning C4172: returning address of local variable or temporary: file
+  DLL-Injector.vcxproj -> D:\AttackOnline 2.0 UE2\DLL-Injector-Keyauth-main\x64\Release\DLL-Injector.exe
